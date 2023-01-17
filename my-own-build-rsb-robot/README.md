@@ -1,14 +1,4 @@
-# Template: Standard Robot Framework
+A process automation robot to complete the Robocorp course "Certificate level II: Build a robot" assignment.
+The robot automates the process of ordering several robots via the RobotSpareBin Industries Inc. website and can be used as an assistant, which asks for the CSV file URL.
 
-This is the simplest template to start from.
-
-- Get started from a simple task template in `tasks.robot`.
-  - Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- You can configure your robot `robot.yaml`.
-- You can configure dependencies in `conda.yaml`.
-
-## Learning materials
-
-- [Robocorp Developer Training Courses](https://robocorp.com/docs/courses)
-- [Documentation links on Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
-- [Example bots in Robocorp Portal](https://robocorp.com/portal)
+Link to course: https://robocorp.com/docs/courses/build-a-robot
